@@ -36,15 +36,6 @@ Environmental advocates passionate about sustainable travel and eager to engage 
 - Flask
 
 ## Installation Instructions
-
-  1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/loan-repayment-prediction.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd loan-repayment-prediction
-    ```
 1. Clone the repository:
     ```bash
    git clone https://github.com/rohitaragde/NatureQuest-Adventures.git
