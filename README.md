@@ -63,8 +63,11 @@ Environmental advocates passionate about sustainable travel and eager to engage 
     ```
 
 ## Output Screenshots
-## Homepage**:
+## Homepage:
+<br>
 ![Screenshot 1](https://github.com/rohitaragde/NatureQuest/blob/master/screenshots/UI_Project_screenshot_01.png)
+<br>
+<br>
 <br>
 ![Screenshot 2](https://github.com/rohitaragde/NatureQuest/blob/master/screenshots/screenshot_02.png)
 <br>
