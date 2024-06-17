@@ -31,7 +31,8 @@ Environmental advocates passionate about sustainable travel and eager to engage 
 ## Getting Started
 
 ### Prerequisites
-- [List any software or tools required to use the platform]
+- Python 3.x
+- pip (Python package installer)
 
 ### Installation
 
@@ -39,3 +40,10 @@ Environmental advocates passionate about sustainable travel and eager to engage 
    ```sh
    git clone https://github.com/rohitaragde/NatureQuest-Adventures.git
    cd NatureQuest-Adventures
+
+2. Install Dependencies
+   pip install -r requirements.txt
+
+3. Project Execution
+   python3 app.py
+
