@@ -67,20 +67,16 @@ Environmental advocates passionate about sustainable travel and eager to engage 
 ![Screenshot 1](https://github.com/rohitaragde/NatureQuest/blob/master/screenshots/UI_Project_screenshot_01.png)
 <br>
 <br>
-<br>
 ## Our Activities:
 ![Screenshot 2](https://github.com/rohitaragde/NatureQuest/blob/master/screenshots/screenshot_02.png)
-<br>
 <br>
 <br>
 ## Our Stories:
 ![Screenshot 3](https://github.com/rohitaragde/NatureQuest/blob/master/screenshots/screenshot_03.png)
 <br>
 <br>
-<br>
 ## Our Contributions:
 ![Screenshot 4](https://github.com/rohitaragde/NatureQuest/blob/master/screenshots/screenshot_04.png)
-<br>
 <br>
 <br>
 ## Our Feedback and Impact:
@@ -90,5 +86,7 @@ Environmental advocates passionate about sustainable travel and eager to engage 
 
 ## Authors
 Rohit Annasaheb Ragde
+<br>
 Shyamal Mishra
+<br>
 Disha Yadav
