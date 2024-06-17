@@ -61,3 +61,10 @@ Environmental advocates passionate about sustainable travel and eager to engage 
     ```bash
     python3 app.py
     ```
+
+## Output Screenshots
+
+## Authors
+Rohit Annasaheb Ragde
+Shyamal Mishra
+Disha Yadav
