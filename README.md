@@ -35,14 +35,14 @@ Environmental advocates passionate about sustainable travel and eager to engage 
 - pip (Python package installer)
 - Flask
 
-   ## Installation Instructions
+## Installation Instructions
 1. Clone the repository:
     ```bash
-git clone https://github.com/rohitaragde/NatureQuest-Adventures.git
+   git clone https://github.com/rohitaragde/NatureQuest-Adventures.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd NatureQuest-Adventures
+  cd NatureQuest-Adventures
     ```
 3. Create and activate a virtual environment:
     ```bash
@@ -53,11 +53,9 @@ git clone https://github.com/rohitaragde/NatureQuest-Adventures.git
     ```bash
     pip install -r requirements.txt
     ```
-    ## Implementation
-   Project Execution:
-   In the terminal execute the below command it will execute the entire flask application:-
-    ```bash
-     python3 app.py
+5.  Project Execution:
+    ```
+    python3 app.py
     ```
     
 
