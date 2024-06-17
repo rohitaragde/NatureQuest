@@ -33,6 +33,7 @@ Environmental advocates passionate about sustainable travel and eager to engage 
 ### Prerequisites
 - Python 3.x
 - pip (Python package installer)
+- Flask
 
 ### Installation
 
@@ -45,5 +46,23 @@ cd NatureQuest-Adventures
 
 3. Project Execution
    python3 app.py
+
+   ## Installation Instructions
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/loan-repayment-prediction.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd loan-repayment-prediction
+    ```
+3. Create and activate a virtual environment:
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+4. Install the required packages:
+    ```bash
+    pip install -r requirements.txt
 
 
