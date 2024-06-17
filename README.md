@@ -52,7 +52,7 @@ git clone https://github.com/rohitaragde/NatureQuest-Adventures.git
 4. Install the required packages:
     ```bash
     pip install -r requirements.txt
-
+    ```
     ## Implementation
    Project Execution:
    In the terminal execute the below command it will execute the entire flask application:-
