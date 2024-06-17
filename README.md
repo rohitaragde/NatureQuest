@@ -84,9 +84,8 @@ Environmental advocates passionate about sustainable travel and eager to engage 
 <br>
 <br>
 
+
 ## Authors
-Rohit Annasaheb Ragde
-<br>
-Shyamal Mishra
-<br>
-Disha Yadav
+- Rohit Annasaheb Ragde
+- Shyamal Mishra
+- Disha Yadav
